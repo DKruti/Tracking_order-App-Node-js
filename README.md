@@ -134,6 +134,5 @@ The API provides detailed error responses for different scenarios. Please check 
 
  - (500 server error) -> when the third-party API is wrong or down
     - Error generation URL: POST `https://localhost:8080/order/track/13`
-    - Response:
-      <img width="366" alt="Screen Shot 2023-10-26 at 12 43 28 PM" src="https://github.com/DKruti/Tracking_order-App-Node-js/assets/120690177/c807bc61-0197-4b5c-9610-a3d395c364f6">
+    - Response:<img width="366" alt="Screen Shot 2023-10-26 at 12 43 28 PM" src="https://github.com/DKruti/Tracking_order-App-Node-js/assets/120690177/c807bc61-0197-4b5c-9610-a3d395c364f6">
 
